@@ -10,9 +10,9 @@ It is not necessary to install any program on your computer to follow this mater
 Researcher at the Supercomputing Center for Industrial Innovation SENAI-CIMATEC [CS2I](http://www.senaicimatec.com.br/) 
 
 ## Tempo de Execução x Grau
-![Tempo de Execução x Grau](./Tabela_Dados_Tempo_Execucao_Speedup)
+![Tempo de Execução x Grau](./Tabela_Dados_Tempo_Execucao_Speedup.png)
 
 ## Speedup x Grau
-![Speedup x Grau](./Graficos_Dados_Tempo_Execucao_Speedup)
+![Speedup x Grau](./Graficos_Dados_Tempo_Execucao_Speedup.png)
 
 
